@@ -1,0 +1,2 @@
+# starting
+Don't mine
